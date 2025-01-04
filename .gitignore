@@ -1,1 +1,6 @@
 /sub
+
+env/
+*/env/
+
+.env
